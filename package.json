@@ -35,7 +35,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "secure-id": "^0.2.1"
+    "secure-id": "^0.2.2"
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
