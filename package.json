@@ -35,7 +35,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "secure-id": "^0.1.1"
+    "secure-id": "^0.1.3"
   },
   "devDependencies": {
     "typescript": "^4.0.3",
