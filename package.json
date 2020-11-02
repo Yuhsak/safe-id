@@ -1,6 +1,6 @@
 {
-  "name": "pico-id",
-  "version": "0.0.1",
+  "name": "safe-id",
+  "version": "0.1.0",
   "description": "",
   "author": {
     "name": "Yuhsak Inoue",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yuhsak/pico-id.git"
+    "url": "https://github.com/Yuhsak/safe-id.git"
   },
   "main": "lib/common/index.js",
   "module": "lib/esm/index.js",
@@ -35,7 +35,7 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "secure-id": "^0.1.0"
+    "secure-id": "^0.1.1"
   },
   "devDependencies": {
     "typescript": "^4.0.3",

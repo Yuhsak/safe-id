@@ -1,7 +1,7 @@
-# pico-id
+# safe-id
 
 ## Install
 
 ```sh
-npm install pico-id
+npm install safe-id
 ```
