@@ -1,5 +1,7 @@
 # safe-id
 
+Secure and URL safe id for Browser, Node.js, and ReactNative written in TypeScript.
+
 ## Install
 
 ```sh
