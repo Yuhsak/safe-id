@@ -40,5 +40,5 @@ validate(cid)
 validate('a'.repeat(12))
 
 // false
-validate('a'.validate(21)) //invalid length
+validate('a'.repeat(21)) //invalid length
 ```
