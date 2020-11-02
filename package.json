@@ -1,6 +1,6 @@
 {
   "name": "safe-id",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Secure and URL safe id for Browser, Node.js, and ReactNative written in TypeScript.",
   "author": {
     "name": "Yuhsak Inoue",
